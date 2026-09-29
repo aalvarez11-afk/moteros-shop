@@ -70,7 +70,7 @@ const CONFIG = {
     colorPrincipal: '#c81e1e',
     colorAcento:    '#f04438',
 
-    imagenCompartir: 'assets/img/og-moteros.png',
+    imagenCompartir: 'https://moterosshop.netlify.app/assets/img/og-moteros.png',
   },
 
   // ─── 6. AVANZADO ────────────────────────────────────────────
