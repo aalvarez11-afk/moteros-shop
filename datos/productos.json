@@ -1,0 +1,135 @@
+{
+  "_comentario": "Catálogo DEMO de Moteros Shop Cartago. Líneas tomadas de los destacados de su Instagram (MT Thunder, Shaft Pro, Spartan Wolf, traje turismo, bota alp). Precios y stock son de referencia para la demo: confirmarlos con la tienda antes de usar esto con clientes. Mismas columnas que la hoja de FabJak.",
+  "_sincronizado": "2026-09-28",
+
+  "productos": [
+    {
+      "referencia": "CAS-001", "nombre": "Casco MT Thunder 4 SV", "categoria": "Cascos",
+      "descripcion": "Integral con visor interno solar (SV), interior desmontable y lavable. Pregunta por tu talla y te guiamos con la medida.",
+      "precio": "459000", "precio_antes": "520000",
+      "imagen_1": "assets/img/productos/cas-001.svg",
+      "destacado": "SI", "activo": "SI"
+    },
+    {
+      "referencia": "CAS-002", "nombre": "Casco Shaft Pro Doble Visor", "categoria": "Cascos",
+      "descripcion": "Integral con doble visor e interior desmontable y lavable.",
+      "precio": "329000", "precio_antes": "",
+      "imagen_1": "assets/img/productos/cas-002.svg",
+      "destacado": "SI", "activo": "SI"
+    },
+    {
+      "referencia": "CAS-003", "nombre": "Casco Spartan Wolf Iridium", "categoria": "Cascos",
+      "descripcion": "Gráfica Spartan Wolf con visor iridium. Incluye visor transparente de repuesto.",
+      "precio": "389000", "precio_antes": "",
+      "imagen_1": "assets/img/productos/cas-003.svg",
+      "destacado": "SI", "activo": "SI"
+    },
+    {
+      "referencia": "CAS-004", "nombre": "Casco Abatible Doble Visor", "categoria": "Cascos",
+      "descripcion": "Mentonera abatible, ideal para ciudad y domicilios. Visor solar interno.",
+      "precio": "279000", "precio_antes": "310000",
+      "imagen_1": "assets/img/productos/cas-004.svg",
+      "destacado": "NO", "activo": "SI"
+    },
+    {
+      "referencia": "TRA-001", "nombre": "Traje de Turismo Impermeable", "categoria": "Trajes y chaquetas",
+      "descripcion": "Chaqueta y pantalón con protecciones en hombros, codos y rodillas. Forro térmico desmontable y reflectivos.",
+      "precio": "589000", "precio_antes": "",
+      "imagen_1": "assets/img/productos/tra-001.svg",
+      "destacado": "SI", "activo": "SI"
+    },
+    {
+      "referencia": "CHA-001", "nombre": "Chaqueta Rider con Protecciones", "categoria": "Trajes y chaquetas",
+      "descripcion": "Textil antiabrasión con protecciones en hombros y codos, y ventilación frontal.",
+      "precio": "269000", "precio_antes": "",
+      "imagen_1": "assets/img/productos/cha-001.svg",
+      "destacado": "NO", "activo": "SI"
+    },
+    {
+      "referencia": "BOT-001", "nombre": "Bota Alp Racing", "categoria": "Botas",
+      "descripcion": "Caña alta, puntera y talón reforzados, suela antideslizante. Cierre de cremallera y velcro.",
+      "precio": "349000", "precio_antes": "",
+      "imagen_1": "assets/img/productos/bot-001.svg",
+      "destacado": "SI", "activo": "SI"
+    },
+    {
+      "referencia": "BOT-002", "nombre": "Botín Urbano Moto", "categoria": "Botas",
+      "descripcion": "Estilo tenis con protección en tobillo. Para el día a día en la moto.",
+      "precio": "219000", "precio_antes": "",
+      "imagen_1": "assets/img/productos/bot-002.svg",
+      "destacado": "NO", "activo": "SI"
+    },
+    {
+      "referencia": "GUA-001", "nombre": "Guantes Racing Protección Nudillos", "categoria": "Guantes",
+      "descripcion": "Nudillo rígido, palma reforzada y yemas para usar el celular sin quitártelos.",
+      "precio": "79000", "precio_antes": "95000",
+      "imagen_1": "assets/img/productos/gua-001.svg",
+      "destacado": "NO", "activo": "SI"
+    },
+    {
+      "referencia": "IMP-001", "nombre": "Impermeable 2 Piezas con Reflectivo", "categoria": "Impermeables",
+      "descripcion": "Chaqueta y pantalón en PVC con costuras selladas. Cabe debajo del asiento.",
+      "precio": "95000", "precio_antes": "",
+      "imagen_1": "assets/img/productos/imp-001.svg",
+      "destacado": "NO", "activo": "SI"
+    },
+    {
+      "referencia": "ACC-001", "nombre": "Intercomunicador Bluetooth", "categoria": "Accesorios",
+      "descripcion": "Llamadas, música y GPS dentro del casco. Se instala sin herramientas.",
+      "precio": "169000", "precio_antes": "",
+      "imagen_1": "assets/img/productos/acc-001.svg",
+      "destacado": "NO", "activo": "SI"
+    },
+    {
+      "referencia": "ACC-002", "nombre": "Visor Iridium de Repuesto", "categoria": "Accesorios",
+      "descripcion": "Para cascos MT y Shaft. Pregunta por tu referencia antes de pedirlo.",
+      "precio": "89000", "precio_antes": "",
+      "imagen_1": "assets/img/productos/acc-002.svg",
+      "destacado": "NO", "activo": "SI"
+    }
+  ],
+
+  "inventario": [
+    { "referencia": "CAS-001", "talla": "S",  "color": "Negro mate", "stock": "2" },
+    { "referencia": "CAS-001", "talla": "M",  "color": "Negro mate", "stock": "4" },
+    { "referencia": "CAS-001", "talla": "L",  "color": "Negro mate", "stock": "3" },
+    { "referencia": "CAS-001", "talla": "M",  "color": "Rojo",       "stock": "2" },
+    { "referencia": "CAS-001", "talla": "XL", "color": "Negro mate", "stock": "1" },
+
+    { "referencia": "CAS-002", "talla": "S",  "color": "Negro brillante", "stock": "3" },
+    { "referencia": "CAS-002", "talla": "M",  "color": "Negro brillante", "stock": "5" },
+    { "referencia": "CAS-002", "talla": "L",  "color": "Gris",            "stock": "2" },
+    { "referencia": "CAS-002", "talla": "XL", "color": "Gris",            "stock": "0" },
+
+    { "referencia": "CAS-003", "talla": "M",  "color": "Azul / dorado",   "stock": "2" },
+    { "referencia": "CAS-003", "talla": "L",  "color": "Azul / dorado",   "stock": "1" },
+
+    { "referencia": "CAS-004", "talla": "M",  "color": "Negro mate", "stock": "3" },
+    { "referencia": "CAS-004", "talla": "L",  "color": "Negro mate", "stock": "3" },
+    { "referencia": "CAS-004", "talla": "XL", "color": "Blanco",     "stock": "2" },
+
+    { "referencia": "TRA-001", "talla": "M",   "color": "Negro / gris", "stock": "2" },
+    { "referencia": "TRA-001", "talla": "L",   "color": "Negro / gris", "stock": "2" },
+    { "referencia": "TRA-001", "talla": "XL",  "color": "Negro / gris", "stock": "1" },
+    { "referencia": "TRA-001", "talla": "XXL", "color": "Negro / gris", "stock": "0" },
+
+    { "referencia": "CHA-001", "talla": "S",  "color": "Negro", "stock": "2" },
+    { "referencia": "CHA-001", "talla": "M",  "color": "Negro", "stock": "4" },
+    { "referencia": "CHA-001", "talla": "L",  "color": "Negro", "stock": "3" },
+
+    { "referencia": "BOT-001", "talla": "39", "color": "Negro", "stock": "1" },
+    { "referencia": "BOT-001", "talla": "40", "color": "Negro", "stock": "2" },
+    { "referencia": "BOT-001", "talla": "41", "color": "Negro", "stock": "3" },
+    { "referencia": "BOT-001", "talla": "42", "color": "Negro", "stock": "2" },
+    { "referencia": "BOT-001", "talla": "43", "color": "Negro", "stock": "0" },
+
+    { "referencia": "BOT-002", "talla": "38", "color": "Negro / blanco", "stock": "2" },
+    { "referencia": "BOT-002", "talla": "40", "color": "Negro / blanco", "stock": "3" },
+    { "referencia": "BOT-002", "talla": "42", "color": "Negro / blanco", "stock": "2" },
+
+    { "referencia": "GUA-001", "talla": "S",  "color": "Negro / rojo", "stock": "4" },
+    { "referencia": "GUA-001", "talla": "M",  "color": "Negro / rojo", "stock": "6" },
+    { "referencia": "GUA-001", "talla": "L",  "color": "Negro / rojo", "stock": "5" },
+    { "referencia": "GUA-001", "talla": "XL", "color": "Negro / rojo", "stock": "2" }
+  ]
+}

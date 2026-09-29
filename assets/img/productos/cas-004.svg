@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600"><defs>
+  <radialGradient id="bg" cx="50%" cy="42%" r="65%"><stop offset="0" stop-color="#303036"/><stop offset=".7" stop-color="#161618"/><stop offset="1" stop-color="#0e0e10"/></radialGradient>
+</defs><rect width="600" height="600" fill="url(#bg)"/>
+<ellipse cx="300" cy="500" rx="190" ry="18" fill="#000" opacity=".45"/><defs>
+  <linearGradient id="sh4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a2a2f"/><stop offset="1" stop-color="#101012"/></linearGradient>
+  <linearGradient id="vi4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#374151"/><stop offset="0.5" stop-color="#111827"/><stop offset="1" stop-color="#374151"/></linearGradient></defs>
+  <g transform="translate(-40 10)">
+    <path d="M190 248 L128 262 L178 292 Z" fill="#101012"/>
+    <path d="M165 430 C130 330 160 190 290 155 C390 128 480 170 515 250 C530 285 535 330 538 370 C540 410 525 445 490 452 L330 458 C260 460 200 452 165 430 Z" fill="url(#sh4)"/>
+    
+    <path d="M300 250 C360 222 462 226 516 262 C529 290 533 318 531 340 C470 348 380 343 318 332 C295 316 288 272 300 250 Z" fill="url(#vi4)"/>
+    <path d="M318 256 C370 238 440 238 490 258 C440 252 370 254 326 270 Z" fill="#fff" opacity=".35"/>
+    <path d="M300 250 C360 222 462 226 516 262" fill="none" stroke="#0b0b0c" stroke-width="6" stroke-linecap="round"/>
+    <path d="M322 336 C400 350 470 352 532 344" fill="none" stroke="#0b0b0c" stroke-width="5"/><circle cx="318" cy="332" r="14" fill="#2a2a2f" stroke="#0b0b0c" stroke-width="4"/>
+    <rect x="462" y="378" width="52" height="16" rx="8" fill="#0b0b0c" opacity=".8"/>
+    <rect x="462" y="402" width="40" height="10" rx="5" fill="#0b0b0c" opacity=".6"/>
+    <path d="M300 170 C340 160 380 162 410 172" fill="none" stroke="#0b0b0c" stroke-width="10" stroke-linecap="round" opacity=".55"/>
+    <path d="M168 432 C220 452 300 462 490 452" fill="none" stroke="#0b0b0c" stroke-width="10" stroke-linecap="round"/>
+    <path d="M205 230 C230 190 270 172 310 166" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" opacity=".18"/>
+  </g></svg>
